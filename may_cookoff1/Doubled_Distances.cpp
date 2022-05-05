@@ -23,10 +23,10 @@ int main() {
 	    
 	    }
 	    if(flag==1){
-	    cout<<"yes"<<endl;
+	    cout<<"Yes"<<endl;
 	    }
 	    else{
-	    cout<<"no"<<endl;
+	    cout<<"No"<<endl;
 	    }
 	}
 	return 0;
